@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Jun 2023 05:59:24 at https://skyaxislogistics.com/tracking.php.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://skyaxislogistics.com/tracking.php.html -O1 "C:\My Web Sites\r" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:01:48	Error: 	"Not Found" (404) at link skyaxislogistics.com/translate.google.com/translate_a/fa0d8.txt?cb=googleTranslateElementInit (from https://skyaxislogistics.com/tracking.php.html)
+06:01:59	Error: 	"Not Found" (404) at link skyaxislogistics.com/css/jquery.magnific-popup.min.js (from https://skyaxislogistics.com/tracking.php.html)
+06:01:59	Warning: 	File not parsed, looks like binary: https://skyaxislogistics.com/openhand.cur
+06:01:59	Warning: 	File not parsed, looks like binary: https://skyaxislogistics.com/closedhand.cur
+06:02:00	Error: 	"Not Found" (404) at link https://skyaxislogistics.com/“https://www.smartsupp.com” (from https://skyaxislogistics.com/index.php.html)
+06:02:00	Error: 	"Not Found" (404) at link https://skyaxislogistics.com/fa0d8.txt (from https://skyaxislogistics.com/index.php.html)
+06:02:00	Error: 	"Not Found" (404) at link skyaxislogistics.com/images/gallery-big-1.jpg (from https://skyaxislogistics.com/index.php.html)
+06:02:00	Error: 	"Not Found" (404) at link skyaxislogistics.com/images/gallery-big-2.jpg (from https://skyaxislogistics.com/index.php.html)
+06:02:00	Error: 	"Not Found" (404) at link skyaxislogistics.com/images/gallery-big-3.jpg (from https://skyaxislogistics.com/index.php.html)
+06:02:00	Error: 	"Not Found" (404) at link skyaxislogistics.com/images/gallery-big-5.jpg (from https://skyaxislogistics.com/index.php.html)
+06:02:00	Error: 	"Not Found" (404) at link skyaxislogistics.com/js/jquery-2.2.4.js (from https://skyaxislogistics.com/about.php.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 129 links scanned, 119 files written (5199527 bytes overall) [5091268 bytes received at 32636 bytes/sec], 186178 bytes transferred using HTTP compression in 9 files, ratio 21%, 1.2 requests per connection
+(9 errors, 2 warnings, 0 messages)
